@@ -9,19 +9,14 @@
     "options": {
         "imageVariant": {
             "type": "string",
-            "description": "Node.js version (use -bullseye variants on local arm64/Apple Silicon):",
+            "description": "Node.js version (use -Jammy variant on local arm64/Apple Silicon):",
             "proposals": [
                 "18",
                 "16",
                 "14",
-                "18-bullseye",
-                "16-bullseye",
-                "14-bullseye",
-                "18-buster",
-                "16-buster",
-                "14-buster"
+                "10",
             ],
-            "default": "18"
+            "default": "10
         }
     },
     "platforms": [

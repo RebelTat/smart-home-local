@@ -26,7 +26,7 @@
     "@snyk/protect": "latest"
   },
   "devDependencies": {
-    "firebase-tools": "^8.4.2",
+    "firebase-tools": "^13.0.3",
     "tslint": "^6.1.2",
     "typescript": "^3.9.5"
   },
